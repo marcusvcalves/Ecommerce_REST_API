@@ -1,3 +1,3 @@
 # Ecommerce REST API
 
-#### Criação dos endpoints de uma API utilizando Django
+#### Criação de endpoints para produtos de um Ecommerce utilizando Django
